@@ -35,12 +35,13 @@
 ---
 
 ### 📬 Connect with Me
--🌟 Freelancer: freelancer.com/u/msmahmud66
--🛠️ Upwork: upwork.com/freelancers/~01492af36223693dde
--🧑‍💻 LinkedIn: linkedin.com/in/sultanrajmahmud
-- 💼 [Fiverr Profile](https://www.fiverr.com/sultanmahmud66)
-- 🌐 [Portfolio Website](https://sultanrajmahmud.wordpress.com/)
-- 📧 Email: ms.mahmud66@gmail.com
+- 🌟 **Freelancer:** [freelancer.com/u/msmahmud66](https://www.freelancer.com/u/msmahmud66)  
+- 🛠️ **Upwork:** [upwork.com/freelancers/~01492af36223693dde](https://www.upwork.com/freelancers/~01492af36223693dde)  
+- 🧑‍💻 **LinkedIn:** [linkedin.com/in/sultanrajmahmud](https://www.linkedin.com/in/sultanrajmahmud)  
+- 💼 **Fiverr:** *Coming Soon*  
+- 🌐 **Portfolio Website:** *Coming Soon*  
+- 📧 **Email:** ms.mahmud66@gmail.com
+
 
 ---
 
