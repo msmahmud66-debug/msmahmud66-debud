@@ -35,11 +35,9 @@
 ---
 
 ### 📬 Connect with Me
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~01492af36223693dde?viewMode=1)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Profile-blue?logo=freelancer)](https://www.freelancer.com/u/msmahmud66)
-[![GitHub](https://img.shields.io/badge/GitHub-msmahmud66--debug-181717?logo=github)](https://github.com/msmahmud66-debug)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Mahmud-0077B5?logo=linkedin)](https://www.linkedin.com/in/sultanrajmahmud/)
-
+-🌟 Freelancer: freelancer.com/u/msmahmud66
+-🛠️ Upwork: upwork.com/freelancers/~01492af36223693dde
+-🧑‍💻 LinkedIn: linkedin.com/in/sultanrajmahmud
 - 💼 [Fiverr Profile](https://www.fiverr.com/sultanmahmud66)
 - 🌐 [Portfolio Website](https://sultanrajmahmud.wordpress.com/)
 - 📧 Email: ms.mahmud66@gmail.com
